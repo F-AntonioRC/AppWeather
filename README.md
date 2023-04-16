@@ -1,5 +1,5 @@
 # AppWeather
-<br>
+
 Aplicación de clima con React, Vite y MaterialUI (No incluye key)
 <br>
 1.- Para la instalacion de vite puede ir a la siguiente direccion: https://vitejs.dev/ 
