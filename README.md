@@ -1,7 +1,11 @@
 # AppWeather
+<br>
 Aplicación de clima con React, Vite y MaterialUI (No incluye key)
+<br>
 1.- Para la instalacion de vite puede ir a la siguiente direccion: https://vitejs.dev/ 
+<br>
 2.- Para la instalacion de MaterialUI puede ir a la siguiente direccion: https://mui.com/material-ui/getting-started/installation/
+<br>
 3.- Para obtener la key sera necesario que ingrese a: https://www.weatherapi.com/ para registrarse con una cuenta gratuita y una vez hecho esto se necesitara 
 elaborar un archivo dentro de la carpeta principal (src) con el nombre .env.local para procurar la seguridad de la key. NO OLVIDAR PONER CREDITO A LA API UTILIZADA
 
